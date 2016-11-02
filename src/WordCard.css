@@ -1,0 +1,29 @@
+.word-card-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.word-answer-form {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.word-answer-input-container {
+    height: 30px;
+    width: 25%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.word-pronoun {
+    text-align: center;
+    width: 100%;
+}
+
+.word-answer-input {
+
+}
